@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenHands</string>
+    <string name="channel_tasks">Agent tasks</string>
+    <string name="channel_tasks_desc">Status of cloud agents after you leave the app</string>
+</resources>
